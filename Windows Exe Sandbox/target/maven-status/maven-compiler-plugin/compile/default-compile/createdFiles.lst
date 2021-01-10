@@ -1,0 +1,8 @@
+sandbox\permissions\Permission$Value.class
+main\Launcher.class
+util\Commands.class
+sandbox\Sandbox.class
+sandbox\UnconfiguredException.class
+main\Main.class
+sandbox\Test.class
+sandbox\permissions\Permission.class
